@@ -1,3 +1,4 @@
 - Add menu to scan games to join
 - Add password to join games
 - Add soundtrack
+- Add ping when your turn to play comes
