@@ -1,2 +1,5 @@
 - Add menu to scan games to join
 - Add password to join games
+- Add button to leave games
+- Add comms message for leaving games
+- Leave games when quitting program / reurning to main
