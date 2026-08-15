@@ -2,5 +2,5 @@
 - ~Add password to join games~
 - Add button to leave games
 - Add comms message for leaving games
-- Leave games when quitting program / reurning to main
+- Leave games when quitting program / returning to main
 - Ability to load saved games
