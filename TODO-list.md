@@ -1,7 +1,7 @@
 - ~Add menu to scan games to join~
 - ~Add password to join games~
 - Make encoding and decoding stronger
-- Add button to leave games
+- ~Add button to leave games~
 - ~Add comms message for leaving games~
 - ~Leave games when quitting program / returning to main~
 - Ability to load saved games
