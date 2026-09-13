@@ -5,3 +5,6 @@
 - ~Add comms message for leaving games~
 - ~Leave games when quitting program / returning to main~
 - Ability to load saved games
+**v0.0.7**
+- ~Add soundtrack~
+- ~Add ping when your turn to play comes~
