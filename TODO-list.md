@@ -5,6 +5,8 @@
 - ~Add comms message for leaving games~
 - ~Leave games when quitting program / returning to main~
 - Ability to load saved games
+- Make direct joining of nonexistant games impossible
+- Make direct joining as already connected country impossible
 
 **v0.0.7**
 - ~Add soundtrack~
